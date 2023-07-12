@@ -1,0 +1,4 @@
+// 0
+digraph testgraph {
+  0 -> 0;
+}
