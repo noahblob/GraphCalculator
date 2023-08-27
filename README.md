@@ -11,7 +11,7 @@ Implementing these from scratch has helped me gain a better understanding of dat
 
 ## Example
 **Example Input:** <br>
-'''
+```
 digraph testgraph {
  0->2
  0->1
@@ -39,7 +39,7 @@ digraph testgraph {
  15->23
  7->20
 }
-'''
+```
 <br>
 **Visual Representation:**<br>
 ![image](https://github.com/noahblob/GraphCalculator/assets/107817272/1be8041e-084a-4bce-93d6-65968a9825f5)
